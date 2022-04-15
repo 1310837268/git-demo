@@ -40,6 +40,4 @@ hello git
 hello git
 123456789
 hello git
-master test
-2222222222222222222222
-hot fix test
+update one times
